@@ -6,6 +6,8 @@
 
 ## 2. Sequence Dataset
 
+![result](https://github.com/HUANGZiyin1/PolyUSCCv2/blob/main/table.png)
+
 ## 3. Dataset
 
 Please check [here](https://connectpolyu-my.sharepoint.com/:u:/g/personal/20034807r_connect_polyu_hk/Eax3oclEvxtGmlAvQIxmKK8B027-0i9qnOfzoy_xjJlRWQ?e=4zcCCQ).

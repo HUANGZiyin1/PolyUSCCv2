@@ -11,3 +11,8 @@
 ## 3. Dataset
 
 Please check [here](https://connectpolyu-my.sharepoint.com/:u:/g/personal/20034807r_connect_polyu_hk/Eax3oclEvxtGmlAvQIxmKK8B027-0i9qnOfzoy_xjJlRWQ?e=4zcCCQ).
+
+## 4. References
+ 
+- [1] Screen Content Sequences Provided by JCT-VC. Available: ftp://mpeg.tnt.uni-hannover.de/testsequences/
+- [2]“Common test conditions for screen content coding,” JCT-VC, JCTVC-X1015, pp. 1-6, May-June 2016.

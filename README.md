@@ -2,17 +2,25 @@
 
 ## 1. Introduction
 
-- SC sequences were gathered from other sources [1], [2], or self-capture from our dataset, “PolyUSCC”.
+PolyUSCCv2 is a screen content (SC) video dataset. The current release contains 28 sequences, including self-captured sequences from PolyUSCC and selected JCT-VC screen content test sequences [1].
 
 ## 2. Sequence Dataset
 
-![result](https://github.com/HUANGZiyin1/PolyUSCCv2/blob/main/table.png)
+The current release contains 28 raw YUV video sequences. As indicated by their filenames, all sequences have a resolution of **1920 × 1080**, an **8-bit** depth, **YUV 4:4:4** chroma sampling, and **300 frames** per sequence. The frame rate is either **30 fps** or **60 fps**.
 
-## 3. Dataset
+The **20 sequences at 30 fps** are: `Amazon`, `AppleStore`, `Appskip`, `BitstreamAnalyzer`, `ChineseDocumentEditing`, `CircuitLayoutPresentation`, `ClearTypeSpreadsheet`, `cmd3`, `consoledocument`, `consolenew`, `docgooglemap`, `docvideoplanets`, `JDStore`, `MSstore`, `PPTtemplate`, `purecmd`, `SCCCodec`, `scconsolecmdcpu`, `Windowskip2`, and `Youtube`. Each sequence has a duration of 10 seconds.
 
-Please check [here](https://connectpolyu-my.sharepoint.com/:u:/g/personal/20034807r_connect_polyu_hk/Eax3oclEvxtGmlAvQIxmKK8B027-0i9qnOfzoy_xjJlRWQ?e=4zcCCQ).
+The **8 sequences at 60 fps** are: `airplanevideocmd`, `consolecmd`, `Folderskip`, `googlemap`, `Paperskip`, `PPTskip`, `Websiteskip`, and `Windowskip`. Each sequence has a duration of 5 seconds.
+
+Filenames follow the pattern `<sequence>_1920x1080_<fps>_8bit_300_444.yuv`. The `AppleStore`, `SCCCodec`, and `Youtube` files use `8bits` instead of `8bit`; both spellings indicate the same 8-bit depth. Sequence names retain the capitalization used in the archive.
+
+## 3. Download
+
+Download **PolyuSCCv2.zip** from [Baidu Netdisk](https://pan.baidu.com/s/1Q6gre-IyfglQcAgcqZxeKg?pwd=poly).
+
+**Extraction code (提取码):** `poly`
 
 ## 4. References
- 
+
 - [1] Screen Content Sequences Provided by JCT-VC. Available: ftp://mpeg.tnt.uni-hannover.de/testsequences/
-- [2]“Common test conditions for screen content coding,” JCT-VC, JCTVC-X1015, pp. 1-6, May-June 2016.
+- [2] “Common test conditions for screen content coding,” JCT-VC, JCTVC-X1015, pp. 1–6, May–June 2016.

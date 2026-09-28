@@ -2,7 +2,7 @@
 
 ## 1. Introduction
 
-PolyUSCCv2 is a screen content (SC) video dataset. The current release contains 28 sequences, including self-captured sequences from PolyUSCC and selected JCT-VC screen content test sequences [1].
+PolyUSCCv2 is a screen content (SC) video dataset. The current release contains 28 sequences, including self-captured sequences and selected JCT-VC screen content test sequences [1].
 
 ## 2. Sequence Dataset
 

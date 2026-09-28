@@ -24,3 +24,22 @@ Download **PolyuSCCv2.zip** from [Baidu Netdisk](https://pan.baidu.com/s/1Q6gre-
 
 - [1] Screen Content Sequences Provided by JCT-VC. Available: ftp://mpeg.tnt.uni-hannover.de/testsequences/
 - [2] “Common test conditions for screen content coding,” JCT-VC, JCTVC-X1015, pp. 1–6, May–June 2016.
+
+## 5. Citation
+
+If you use the **PolyUSCCv2** dataset in your research, please cite the following paper:
+
+Ziyin Huang, Yui-Lam Chan, Sik-Ho Tsang, Ngai-Wing Kwong, Kin-Man Lam, and Wing-Kuen Ling, “Spatio-temporal feature learning for enhancing video quality based on screen content characteristics,” *Journal of Visual Communication and Image Representation*, vol. 104, Article 104270, 2024. DOI: [10.1016/j.jvcir.2024.104270](https://doi.org/10.1016/j.jvcir.2024.104270).
+
+```bibtex
+@article{huang2024spatio,
+  author  = {Huang, Ziyin and Chan, Yui-Lam and Tsang, Sik-Ho and Kwong, Ngai-Wing and Lam, Kin-Man and Ling, Wing-Kuen},
+  title   = {Spatio-temporal feature learning for enhancing video quality based on screen content characteristics},
+  journal = {Journal of Visual Communication and Image Representation},
+  volume  = {104},
+  pages   = {104270},
+  year    = {2024},
+  doi     = {10.1016/j.jvcir.2024.104270},
+  url     = {https://doi.org/10.1016/j.jvcir.2024.104270}
+}
+```

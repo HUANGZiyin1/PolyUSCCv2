@@ -27,7 +27,9 @@ Download **PolyuSCCv2.zip** from [Baidu Netdisk](https://pan.baidu.com/s/1Q6gre-
 
 ## 5. Citation
 
-If you use the **PolyUSCCv2** dataset in your research, please cite the following paper:
+If you use the **PolyUSCCv2** dataset in your research, please cite **both** the following paper and the JCT-VC sequence source:
+
+### Research Paper
 
 Ziyin Huang, Yui-Lam Chan, Sik-Ho Tsang, Ngai-Wing Kwong, Kin-Man Lam, and Wing-Kuen Ling, “Spatio-temporal feature learning for enhancing video quality based on screen content characteristics,” *Journal of Visual Communication and Image Representation*, vol. 104, Article 104270, 2024. DOI: [10.1016/j.jvcir.2024.104270](https://doi.org/10.1016/j.jvcir.2024.104270).
 
@@ -41,5 +43,17 @@ Ziyin Huang, Yui-Lam Chan, Sik-Ho Tsang, Ngai-Wing Kwong, Kin-Man Lam, and Wing-
   year    = {2024},
   doi     = {10.1016/j.jvcir.2024.104270},
   url     = {https://doi.org/10.1016/j.jvcir.2024.104270}
+}
+```
+
+### JCT-VC Source Sequences
+
+JCT-VC. *Screen Content Sequences Provided by JCT-VC*. Available: ftp://mpeg.tnt.uni-hannover.de/testsequences/
+
+```bibtex
+@misc{jctvc_screen_content_sequences,
+  author = {{JCT-VC}},
+  title  = {Screen Content Sequences Provided by {JCT-VC}},
+  url    = {ftp://mpeg.tnt.uni-hannover.de/testsequences/}
 }
 ```

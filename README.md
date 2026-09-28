@@ -16,9 +16,7 @@ Filenames follow the pattern `<sequence>_1920x1080_<fps>_8bit_300_444.yuv`. The 
 
 ## 3. Download
 
-Download **PolyuSCCv2.zip** from [Baidu Netdisk](https://pan.baidu.com/s/1Q6gre-IyfglQcAgcqZxeKg?pwd=poly).
-
-**Extraction code (提取码):** `poly`
+Download **PolyuSCCv2.zip** from [Google Drive](https://drive.google.com/file/d/1wy91Qos-F4e5Ffr_ODWOc89ar78IP76R/view?usp=sharing).
 
 ## 4. References
 
